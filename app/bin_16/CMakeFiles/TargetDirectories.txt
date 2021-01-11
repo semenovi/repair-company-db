@@ -1,0 +1,3 @@
+D:/docs/edu/mivlgu/5_sem/database/orders/repair-company-db/app/bin_16/CMakeFiles/RepairCompany.dir
+D:/docs/edu/mivlgu/5_sem/database/orders/repair-company-db/app/bin_16/CMakeFiles/ALL_BUILD.dir
+D:/docs/edu/mivlgu/5_sem/database/orders/repair-company-db/app/bin_16/CMakeFiles/ZERO_CHECK.dir

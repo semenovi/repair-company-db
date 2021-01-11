@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\docs\edu\mivlgu\5_sem\database\orders\repair-company-db\app\bin_16\CMakeFiles\80071cf1eeaac8583aa752ead0dbafb1\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D1473A97-8221-3B39-B3DB-14ECEE534476}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

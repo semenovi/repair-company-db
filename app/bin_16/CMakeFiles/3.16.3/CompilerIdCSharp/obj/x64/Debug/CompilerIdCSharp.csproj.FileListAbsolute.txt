@@ -1,0 +1,6 @@
+D:\docs\edu\mivlgu\5_sem\database\orders\repair-company-db\app\bin_16\CMakeFiles\3.16.3\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.csprojAssemblyReference.cache
+D:\docs\edu\mivlgu\5_sem\database\orders\repair-company-db\app\bin_16\CMakeFiles\3.16.3\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.csproj.CoreCompileInputs.cache
+D:\docs\edu\mivlgu\5_sem\database\orders\repair-company-db\app\bin_16\CMakeFiles\3.16.3\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.exe
+D:\docs\edu\mivlgu\5_sem\database\orders\repair-company-db\app\bin_16\CMakeFiles\3.16.3\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.pdb
+D:\docs\edu\mivlgu\5_sem\database\orders\repair-company-db\app\bin_16\CMakeFiles\3.16.3\CompilerIdCSharp\CompilerIdCSharp.exe
+D:\docs\edu\mivlgu\5_sem\database\orders\repair-company-db\app\bin_16\CMakeFiles\3.16.3\CompilerIdCSharp\CompilerIdCSharp.pdb

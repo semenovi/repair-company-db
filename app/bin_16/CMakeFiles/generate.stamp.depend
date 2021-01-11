@@ -1,0 +1,22 @@
+# CMake generation dependency list for this directory.
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeCSharpCompiler.cmake.in
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeCSharpInformation.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeCompilerIdDetection.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeDetermineCSharpCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeDetermineCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeDetermineCompilerId.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeDetermineSystem.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeGenericSystem.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeInitializeConfigs.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeSystem.cmake.in
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeSystemSpecificInformation.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeTestCSharpCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CMakeTestCompilerCommon.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CSharpUtilities.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/CompilerId/VS-10.csproj.in
+D:/Program Files/CMake/share/cmake-3.16/Modules/Platform/Windows.cmake
+D:/Program Files/CMake/share/cmake-3.16/Modules/Platform/WindowsPaths.cmake
+D:/docs/edu/mivlgu/5_sem/database/orders/repair-company-db/app/CMakeLists.txt
+D:/docs/edu/mivlgu/5_sem/database/orders/repair-company-db/app/bin_16/CMakeFiles/3.16.3/CMakeCSharpCompiler.cmake
+D:/docs/edu/mivlgu/5_sem/database/orders/repair-company-db/app/bin_16/CMakeFiles/3.16.3/CMakeSystem.cmake
