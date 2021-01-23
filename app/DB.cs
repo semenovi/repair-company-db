@@ -143,8 +143,8 @@
             {
                 o += reader.GetInt32(0).ToString();
             }
+            transaction.Commit();
             transaction.Dispose();
-            //transaction.Commit();
             command.Dispose();
             return o;
         }
